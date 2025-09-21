@@ -1,4 +1,4 @@
-# Introdução ao Estudo da Certificação Microsoft AI-102
+# Estudo da Certificação Microsoft AI-102
 
 A certificação Microsoft Certified: Azure AI Engineer Associate (AI-102) é voltada para profissionais que desejam projetar e implementar soluções de inteligência artificial utilizando os recursos da plataforma Microsoft Azure. Este exame valida competências técnicas essenciais para o desenvolvimento de aplicações inteligentes, seguras e escaláveis, integrando serviços como Azure Cognitive Services, Azure AI Search e Azure OpenAI.
 
